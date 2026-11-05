@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code, please cite the accompanying paper. Cite the associated
+  DTU Data records when using the deposited data.
+title: Calibrated Uncertainty Quantification on TDC ADMET (code)
+type: software
+version: 1.0.0
+authors:
+  - family-names: Fredsgaard
+    given-names: Laurits
+    orcid: https://orcid.org/0000-0003-3891-3414
+  - family-names: Andersen
+    given-names: Michael Riis
+  - family-names: Schmidt
+    given-names: Mikkel N.
+repository-code: https://github.com/lauritsf/admet-uq
+license: MIT
+keywords:
+  - uncertainty quantification
+  - ADMET
+  - molecular property prediction
+  - calibration
+  - benchmark evaluation
+preferred-citation:
+  type: conference-paper
+  title: "Calibrated Uncertainty Quantification on TDC ADMET: What Can Be Resolved Across 22 Datasets?"
+  authors:
+    - family-names: Fredsgaard
+      given-names: Laurits
+    - family-names: Andersen
+      given-names: Michael Riis
+    - family-names: Schmidt
+      given-names: Mikkel N.
+  year: 2026
+  url: https://arxiv.org/abs/2611.09373
+  conference:
+    name: AI Data Readiness for Scientific Discovery (AIDaR) at NeurIPS 2026
